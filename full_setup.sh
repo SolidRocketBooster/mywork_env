@@ -4,7 +4,7 @@
 apt update
 
 #Essential bins
-apr install vim curl net-tools iproute2 lsof
+apr install vim curl net-tools iproute2 lsof httpd
 
 #   -------------------------------
 #   1. ENVIRONMENT CONFIGURATION
