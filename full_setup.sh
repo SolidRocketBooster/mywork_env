@@ -4,7 +4,7 @@
 apt update
 
 #Essential bins
-apr install vim curl net-tools iproute2 lsof httpd jq
+apr install vim curl net-tools iproute2 lsof jq
 
 #   -------------------------------
 #   1. ENVIRONMENT CONFIGURATION
